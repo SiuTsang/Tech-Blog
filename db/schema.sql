@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS google_books_db;
-CREATE DATABASE google_books_db;
+DROP DATABASE IF EXISTS tech_db;
+CREATE DATABASE tech_db;
